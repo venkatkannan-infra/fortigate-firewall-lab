@@ -13,6 +13,8 @@ Recovering admin access on a FortiGate appliance when the login password is lost
 | Default Username | `admin` |
 | Default Password | *(blank / device-specific — see label)* |
 
+![Fortigate 300E Firewall](images/image0.jpg)
+
 ## Recovery Procedure
 
 If the password is incorrect, you can recover access using the console cable and **maintainer mode**:
